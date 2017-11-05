@@ -1,5 +1,8 @@
-'Edsger Dijkstra'[0];
-//=> "E"
+'Edsger Dijkstra'.length;
+//=> 15
  
-'Edsger Dijkstra'.charAt(0);
-//=> "E"
+'Edsger Dijkstra'[15];
+//=> undefined
+ 
+'Edsger Dijkstra'[14];
+//=> "a"
