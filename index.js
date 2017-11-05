@@ -2,4 +2,4 @@ const currentUser = 'Grace Hopper';
  
 ...
  
-const shortGreeting = `Welcome, ${currentUser}`;
+const shortGreeting = `Welcome, ${currentUser.slice(0, 1)}!`;
