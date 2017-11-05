@@ -1,5 +1,5 @@
-const currentUser = 'Grace Hopper';
+'Edsger Dijkstra'[0];
+//=> "E"
  
-...
- 
-const shortGreeting = `Welcome, ${currentUser}`;
+'Edsger Dijkstra'.charAt(0);
+//=> "E"
