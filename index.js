@@ -1,8 +1,5 @@
-const currentUser = 'Edsger Dijkstra';
-
+const currentUser = 'Grace Hopper';
+ 
 ...
-
-const shortGreeting = ... ;
-
-shortGreeting;
-//=> "Welcome, E!"
+ 
+const shortGreeting = `Welcome, ${currentUser}`;
